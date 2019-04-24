@@ -1,0 +1,1 @@
+package Spring;/** * @program: testNgDemo2 * @description: Spring.EmailGenerator * @author: gonghuihui * @create: 2018-07-31 09:32 **/public interface EmailGenerator {    String generate();}

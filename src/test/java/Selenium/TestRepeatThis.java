@@ -1,0 +1,1 @@
+package Selenium;import org.testng.annotations.Test;/** * @program: testNgDemo2 * @description: 确定TestNG应该运行这个测试方法的次数 * @author: gonghuihui * @create: 2018-07-27 09:53 **/public class TestRepeatThis {    @Test(invocationCount = 10)    public void repeatThis(){        System.out.println("RepeatThis ");    }}

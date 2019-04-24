@@ -1,0 +1,1 @@
+/** * @program: testNgDemo2 * @description: 样例2 * @author: gonghuihui * @create: 2018-07-21 18:29 **/public class testNgDemo2 {}

@@ -1,0 +1,1 @@
+package Spring;import org.springframework.stereotype.Service;/** * @program: testNgDemo2 * @description: * @author: gonghuihui * @create: 2018-07-31 09:46 **/@Servicepublic class RandomEmailGenerator implements EmailGenerator {    public String generate() {        return "feedback@yiibai.com";    }}

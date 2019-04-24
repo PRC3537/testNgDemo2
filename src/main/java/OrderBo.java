@@ -1,0 +1,1 @@
+/** * @program: testNgDemo2 * @description: OrderBo * @author: gonghuihui * @create: 2018-07-23 20:07 **/public class OrderBo {}

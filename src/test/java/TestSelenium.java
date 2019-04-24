@@ -1,0 +1,1 @@
+/** * @program: testNgDemo2 * @description: 在类上的分组 * @author: gonghuihui * @create: 2018-07-24 10:04 **/public class TestSelenium {}
